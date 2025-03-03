@@ -11,7 +11,7 @@ w 10
 line -10 -10 10 10
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="225"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="225"><figcaption></figcaption></figure>
 
 ## w 2
 

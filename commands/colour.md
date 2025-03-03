@@ -16,3 +16,5 @@ cont 10 -10
 ```
 
 This draws two connected lines with a darker colour and a lighter colour
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
