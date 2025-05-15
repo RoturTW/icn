@@ -14,3 +14,4 @@
 * [Square](commands/square.md)
 * [Cutcircle](commands/cutcircle.md)
 * [Ellipse](commands/ellipse.md)
+* [Curve](commands/curve.md)
