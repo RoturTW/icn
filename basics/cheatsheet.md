@@ -2,7 +2,9 @@
 
 sets the width of all subsequent commands
 
+```
 w int
+```
 
 basically scratch pen size
 
@@ -10,8 +12,10 @@ basically scratch pen size
 
 sets the colour for all subsequent commands
 
+```
 c #fff
 c rgb-integer
+```
 
 basically scratch pen colour
 
@@ -19,49 +23,65 @@ basically scratch pen colour
 
 draws from one x,y to another
 
+```
 line x y x y
+```
 
 ## cont
 
 continues a line from the previous position
 
+```
 cont x y
+```
 
 ## dot
 
 draws a circle at a position
 
+```
 dot x y
+```
 
 ## rect
 
 draws a filled rectangle at a position with a size
 
+```
 rect x y width height
+```
 
 ## tri
 
 draws a filled triangle
 
+```
 tri x y x y x y
+```
 
 ## move
 
 moves the center of the drawing area
 
+```
 move changex changey
+```
 
 ## back
 
 resets the center of the drawing area
 
+```
 back
+```
 
 ## cutcircle
 
 draws a basic arc from an x y
 
+```
 cutcircle x y radius direction arclength
+```
 
 direction is from 0 to 18
 arclength is from 0 to 180
@@ -70,7 +90,9 @@ arclength is from 0 to 180
 
 draws an eliptical outline
 
+```
 ellipse x y width multiplier direction
+```
 
 the width is how wide the ellipse will be at the equator
 
@@ -83,7 +105,9 @@ direction is from 0 to 360
 
 draws a quadratic bezier curve
 
+```
 curve x y x y controlx controly
+```
 
 first pair are starting points
 second pair are end points
