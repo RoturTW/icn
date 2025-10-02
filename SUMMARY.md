@@ -4,6 +4,7 @@
 
 * [What is icn?](README.md)
 * [How can i use icn?](basics/how-can-i-use-icn.md)
+* [Cheatsheet](basics/cheatsheet.md)
 
 ## Commands
 
