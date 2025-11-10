@@ -43,6 +43,14 @@ draws a circle at a position
 dot x y
 ```
 
+## square
+
+draws a outline of a rectangle at a position with a size
+
+```
+square x y width height
+```
+
 ## rect
 
 draws a filled rectangle at a position with a size
